@@ -52,6 +52,9 @@
     "hubField": "Hub röstkanal",
     "id": "ID",
     "behavior": "Behavior has been updated for this Hub channel.",
+    "listOfFruits": [ "Äpple", "Vattenmelon", "Apelsin", "Päron", "Jordgubbe", "Druva", "Plumm", "Mango", "Blåbär", "Papaya", "Aprikos", " Mandarin", "Banan", "Grapefrukt", "Citron", "Lime", "Ananas", "Jackfrukt", "Melon", "Kokos", "Avocado", "Persika", "Kiwi", "Svarta vinbär" , "Blackberry", "Körsbär", "Fikon", "Lychee", "Nectarine", "Passionsfrukt", "Kvitten", "Hallon", "Tangerine", "Granatäpple", "Mulberry", "Guava", " Pomelo", "Tranbär", "Tamarillo", "Curuba", "Soursop", "Uchuva", "Melon Cantaloupe", "Granadilla", "Durian", "Dragon Fruit", "Longan", "Rambutan", " Rose Apple", "Star Apple", "Tamarind", "Persimmon", "Mangostan", "Amla" ],
+    "muted": "<@%VAR%> kan inte längre prata i din röstkanal.",
+    "unmuted": "<@%VAR%> Kan nu prata i din röstkanal.", 
 
     "__comment1__": "ERROR TRAMSLATIONS",
 
