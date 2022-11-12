@@ -45,9 +45,12 @@
     "languagePlaceHolder": "Ändra Språk.",
     "languageChangeTo": "Ändra språket till %VAR%",
     "setupDesc": "Servern **%VAR%** har lagts till i vår databas.",
-    "success": "Lyckades",
+    "setupDescFail": "Failed to add **%VAR%** to our database.",
+    "success": "Success",
+    "failed": "Failed",
     "setupField": "Serverns ID",
     "hubDesc": "Ny hub har lagts till.",
+    "hubDescFail": "We couldn't add a new hub to your server.",
     "hubDescrem": "Hub #%VAR% har tagits bort.",
     "hubField": "Hub röstkanal",
     "id": "ID",
@@ -76,6 +79,9 @@
     "404": "404. Hittades inte",
     "noUser": "Du valde ingen användare!",
     "cmdDisable": "Detta kommando är avaktiverat för denna kanal!",
+    "toLongName": "Namnet måste vara mellan 1 och 100 i längd.",
+    "roleAlready": "Role already added.",
+    "roleNot": "The role doesn't exist.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 
@@ -91,5 +97,7 @@
     "InvalidNumber": "Ange ett nummer __mellan 1 och 999__!",
     "onlyNumberLetter": "Endast bokstäver och siffror!",
     "minAndMax": "Koden måste vara minst vara mellan 8 till 16 lång.",
-    "noCodes": "Du har inga koder loggade för denna server!"
+    "noCodes": "Du har inga koder loggade för denna server!",
+    "roleAdded": "<@&%VAR%> was just added as an admin for TEMPROLES.",
+    "roleRemoved": "<@&%VAR%> was just removed as an admin for TEMPROLES."
 }

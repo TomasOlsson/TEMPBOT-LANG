@@ -76,6 +76,9 @@
     "404": "404 non trovato",
     "noUser": "Non è stato specificato nessun utente!",
     "cmdDisable": "Comandi disabilitati per questo canale!",
+    "toLongName": "Il nome deve essere compreso tra 1 e 100.",
+    "roleAlready": "Role already added.",
+    "roleNot": "The role doesn't exist.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 
@@ -91,5 +94,7 @@
     "InvalidNumber": "Indicare un numero __compreso tra 1 e 999__!",
     "onlyNumberLetter": "Solo lettere e numeri!",
     "minAndMax": "Il codice deve essere lungo almeno da 8 a 16 caratteri.",
-    "noCodes": "Non hai nessun codice registrato per questo server!"
+    "noCodes": "Non hai nessun codice registrato per questo server!",
+    "roleAdded": "<@&%VAR%> was just added as an admin for TEMPROLES.",
+    "roleRemoved": "<@&%VAR%> was just removed as an admin for TEMPROLES."
 }
