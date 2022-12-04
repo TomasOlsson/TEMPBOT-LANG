@@ -26,9 +26,7 @@
     "chanName": "Alla tillfäliga röst kanaler kommer att få namnet `%VAR%`",
     "streammode": "Alla kanaler kommer nu ha streammode **%VAR%**",
     "private": "Alla kanaler kommer nu vara **%VAR%** för denna HUB.",
-    "roleadd": "%VAR% har tillgång till nya temporära röstkanaler.",
-    "roledel": "%VAR% kommer inte att ha tillgång till nya tillfälliga röstkanaler.",
-    "roledeleted": "Rollistan är nu rensad.",
+    "memberRole": "The default member role will now be: %VAR%",
     "categorymsg": "Alla tillfälliga röstkanaler kommer att skapas under `%VAR%`",
     "channelLimit": "Alla tillfälliga röstkanalers användargräns kommer nu att vara `%VAR%`",
     "doneDi": "`%VAR%` lades till i inaktiveringslistan",
@@ -57,7 +55,8 @@
     "behavior": "Behavior has been updated for this Hub channel.",
     "listOfFruits": [ "Äpple", "Vattenmelon", "Apelsin", "Päron", "Jordgubbe", "Druva", "Plumm", "Mango", "Blåbär", "Papaya", "Aprikos", " Mandarin", "Banan", "Grapefrukt", "Citron", "Lime", "Ananas", "Jackfrukt", "Melon", "Kokos", "Avocado", "Persika", "Kiwi", "Svarta vinbär" , "Blackberry", "Körsbär", "Fikon", "Lychee", "Nectarine", "Passionsfrukt", "Kvitten", "Hallon", "Tangerine", "Granatäpple", "Mulberry", "Guava", " Pomelo", "Tranbär", "Tamarillo", "Curuba", "Soursop", "Uchuva", "Melon Cantaloupe", "Granadilla", "Durian", "Dragon Fruit", "Longan", "Rambutan", " Rose Apple", "Star Apple", "Tamarind", "Persimmon", "Mangostan", "Amla" ],
     "muted": "<@%VAR%> kan inte längre prata i din röstkanal.",
-    "unmuted": "<@%VAR%> Kan nu prata i din röstkanal.", 
+    "unmuted": "<@%VAR%> Kan nu prata i din röstkanal.",
+    "defaultOwnerPerm": "Default owner permissions have been updated.", 
 
     "__comment1__": "ERROR TRAMSLATIONS",
 
@@ -82,6 +81,8 @@
     "toLongName": "Namnet måste vara mellan 1 och 100 i längd.",
     "roleAlready": "Role already added.",
     "roleNot": "The role doesn't exist.",
+    "cmdAlready": "The command is already disabled.",
+    "cmdNot": "The command isn't disabled.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 

@@ -26,9 +26,7 @@
     "chanName": "Wszystkie kanały głosowe będą miały nazwę `%VAR%`.",
     "streammode": "Wszystkie kanały głosowe będą teraz miały tryb stream **%VAR%**",
     "private": "Wszystkie kanały głosowe będą teraz **%VAR%**.",
-    "roleadd": "%VAR% ma dostęp do nowych kanałów głosowych.",
-    "roledel": "%VAR% nie będzie miał dostępu do nowych kanałów głosowych.",
-    "roledeleted": "Wyczyszczono listę ról.",
+    "memberRole": "The default member role will now be: %VAR%",
     "categorymsg": "Wszystkie kanały głosowe zostaną utworzone w `%VAR%`.",
     "channelLimit": "Limit użytkowników wszystkich kanałów głosowych będzie teraz wynosił: `%VAR%`.",
     "doneDi": "`%VAR%` został dodany do listy wyłączonych.",
@@ -57,7 +55,8 @@
     "behavior": "Behavior has been updated for this Hub channel.",
     "listOfFruits": [ "Apple", "Watermelon", "Orange", "Pear", "Strawberry", "Grape", "Plum", "Mango", "Blueberry", "Papaya", "Apricot", "Mandarin", "Banana", "Grapefruit", "Lemon", "Lime", "Pineapple", "Jackfruit", "Melon", "Coconut", "Avocado", "Peach", "Kiwi", "Blackcurrant", "Blackberry", "Cherry", "Fig", "Lychee", "Nectarine", "Passionfruit", "Quince", "Raspberry", "Tangerine", "Pomegranate", "Mulberry", "Guava", "Pomelo", "Cranberry", "Tamarillo", "Curuba", "Soursop", "Uchuva", "Melon Cantaloupe", "Granadilla", "Durian", "Dragon Fruit", "Longan", "Rambutan", "Rose Apple", "Star Apple", "Tamarind", "Persimmon", "Mangosteen", "Amla" ],
     "muted": "<@%VAR%> has been muted from your channel.",
-    "unmuted": "<@%VAR%> has been muted from your channel.", 
+    "unmuted": "<@%VAR%> has been muted from your channel.",
+    "defaultOwnerPerm": "Default owner permissions have been updated.", 
 
     "__comment1__": "ERROR TRANSLATIONS",
 
@@ -82,6 +81,8 @@
     "toLongName": "Nazwa musi mieć długość od 1 do 100.",
     "roleAlready": "Role already added.",
     "roleNot": "The role doesn't exist.",
+    "cmdAlready": "The command is already disabled.",
+    "cmdNot": "The command isn't disabled.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 

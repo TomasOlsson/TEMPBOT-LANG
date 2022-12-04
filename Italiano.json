@@ -26,9 +26,7 @@
     "chanName": "Tutti i canali vocali temporanei verranno rinominati in `%VAR%`",
     "streammode": "Tutti i canali vocali temporanei da adesso avranno la modalità stream **%VAR%**",
     "private": "Tutti i canali vocali temporanei da adesso saranno **%VAR%**.",
-    "roleadd": "%VAR% ha accesso ai nuovi canali vocali temporanei.",
-    "roledel": "%VAR% non avrà accesso ai nuovi canali vocali temporanei.",
-    "roledeleted": "Elenco dei ruoli cancellato.",
+    "memberRole": "The default member role will now be: %VAR%",
     "categorymsg": "Tutti i canali vocali temporanei saranno creati in `%VAR%`",
     "channelLimit": "Tutti i canali vocali temporanei avranno il limite di utenti a: `%VAR%`",
     "doneDi": "`%VAR%` è stato aggiunto alla lista dei comandi disabilitati",
@@ -77,8 +75,11 @@
     "noUser": "Non è stato specificato nessun utente!",
     "cmdDisable": "Comandi disabilitati per questo canale!",
     "toLongName": "Il nome deve essere compreso tra 1 e 100.",
-    "roleAlready": "Role already added.",
-    "roleNot": "The role doesn't exist.",
+    "roleAlready": "Ruolo già aggiunto.",
+    "roleNot": "Il ruolo non esiste.",
+    "cmdAlready": "The command is already disabled.",
+    "cmdNot": "The command isn't disabled.",
+    "defaultOwnerPerm": "Default owner permissions have been updated.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 
@@ -95,6 +96,6 @@
     "onlyNumberLetter": "Solo lettere e numeri!",
     "minAndMax": "Il codice deve essere lungo almeno da 8 a 16 caratteri.",
     "noCodes": "Non hai nessun codice registrato per questo server!",
-    "roleAdded": "<@&%VAR%> was just added as an admin for TEMPROLES.",
-    "roleRemoved": "<@&%VAR%> was just removed as an admin for TEMPROLES."
+    "roleAdded": "<@&%VAR%> è stato aggiunto come admin per TEMPROLES.",
+    "roleRemoved": "<@&%VAR%> è stato rimosso come admin per TEMPROLES."
 }

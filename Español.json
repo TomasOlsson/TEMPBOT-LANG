@@ -26,9 +26,7 @@
     "chanName": "Todos los canales de voz temporales se llamarán `%VAR%`.",
     "streammode": "Todos los canales de voz temporales tendrán ahora el modo stream **%VAR%**",
     "private": "Todos los canales de voz temporales serán ahora **%VAR%**.",
-    "roleadd": "%VAR% tiene acceso a nuevos canales de voz temporales.",
-    "roledel": "%VAR% no tendrá acceso a los nuevos canales de voz temporales.",
-    "roledeleted": "La lista de roles se ha borrado.",
+    "memberRole": "The default member role will now be: %VAR%",
     "categorymsg": "Todos los canales de voz temporales se crearán en `%VAR%`.",
     "channelLimit": "Todos los canales de voz temporales límite de usuario será ahora: `%VAR%`",
     "doneDi": "`%VAR%` se añadió a la lista de deshabilitados",
@@ -57,7 +55,8 @@
     "behavior": "Behavior has been updated for this Hub channel.",
     "listOfFruits": [ "Apple", "Watermelon", "Orange", "Pear", "Strawberry", "Grape", "Plum", "Mango", "Blueberry", "Papaya", "Apricot", "Mandarin", "Banana", "Grapefruit", "Lemon", "Lime", "Pineapple", "Jackfruit", "Melon", "Coconut", "Avocado", "Peach", "Kiwi", "Blackcurrant", "Blackberry", "Cherry", "Fig", "Lychee", "Nectarine", "Passionfruit", "Quince", "Raspberry", "Tangerine", "Pomegranate", "Mulberry", "Guava", "Pomelo", "Cranberry", "Tamarillo", "Curuba", "Soursop", "Uchuva", "Melon Cantaloupe", "Granadilla", "Durian", "Dragon Fruit", "Longan", "Rambutan", "Rose Apple", "Star Apple", "Tamarind", "Persimmon", "Mangosteen", "Amla" ],
     "muted": "<@%VAR%> has been muted from your channel.",
-    "unmuted": "<@%VAR%> has been muted from your channel.", 
+    "unmuted": "<@%VAR%> has been muted from your channel.",
+    "defaultOwnerPerm": "Default owner permissions have been updated.", 
 
     "__comment1__": "ERROR TRAMSLATIONS",
 
@@ -82,6 +81,8 @@
     "toLongName": "El nombre debe tener entre 1 y 100 de longitud.",
     "roleAlready": "Role already added.",
     "roleNot": "The role doesn't exist.",
+    "cmdAlready": "The command is already disabled.",
+    "cmdNot": "The command isn't disabled.",
 
     "__comment2__": "TEMPROLES TRANSLATIONS",
 
